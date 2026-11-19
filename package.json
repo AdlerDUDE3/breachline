@@ -1,0 +1,12 @@
+{
+  "name": "breachline",
+  "version": "1.0.0",
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "dev": "wrangler dev"
+  },
+  "devDependencies": {
+    "wrangler": "^4.165.0"
+  },
+  "private": true
+}
